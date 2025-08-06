@@ -2,7 +2,7 @@
 
 import { useEffect, useRef } from "react"
 import * as d3 from "d3"
-import { Book, Lightbulb, User, MessageSquare, Brain, GraduationCap, Settings } from "lucide-react"
+import { Book, Lightbulb, User, MessageSquare, Brain, GraduationCap, Settings } from 'lucide-react'
 
 const conceptsData = [
   {
@@ -81,18 +81,18 @@ const reflectionsData = [
   },
   {
     title: "Sobre la Educación",
-    text: "Busca que los alumnos realicen su potencial (Fromm), convirtiéndolos en ciudadanos sensibles y reflexivos. Es una herramienta transformadora que combate estereotipos y fomenta el respeto por la diversidad cultural. La educación es el horizonte: la formación de futuros ciudadanos críticos.",
+    text: "Coherente con la competencia. Busca que los alumnos realicen su potencial (Fromm), convirtiéndolos en ciudadanos sensibles y reflexivos. Es una herramienta transformadora que combate estereotipos y fomenta el respeto por la diversidad cultural. La educación es el horizonte: la formación de futuros ciudadanos críticos.",
   },
 ]
 
 const bibliographyData = [
-  "Beltrán, J., Hernández, F., & Montané, A. (2008). Tradición y modernidad en las políticas educativas en España. Revista Iberoamericana de Educación, (48), 53-71.",
-  "Fromm, E. (2016). El arte de amar. Paidós.",
-  "Hilario Silva, P., & Ortiz Aguirre, E. (2023). Las situaciones de aprendizaje en el área de Lengua Castellana y Literatura. Supervisión 21: Revista de educación e inspección, (68).",
-  "Isola Rajagopalan (2019). Concept of Teaching. Shanlax International Journal of Education, 7(2), 5-8.",
-  "Machorro Cabello, M. Á., & Valdez Fuentes, V. (2017). Orientaciones para el trabajo en el aula. Boletín Científico de la Escuela Preparatoria No. 4, 4(8).",
-  "Ortiz Aguirre, E. (2023). Aproximación crítica a las competencias clave y las competencias específicas de la LOMLOE. Supervisión 21: Revista de educación e inspección, (67).",
-  "Tardif, J. (2008). Desarrollo de un programa por competencias: De la intención a su implementación. Profesorado. Revista de currículum y formación del profesorado, 12(3).",
+  <>Beltrán, J., Hernández, F., & Montané, A. (2008). Tradición y modernidad en las políticas educativas en España. <em>Revista Iberoamericana de Educación</em>, (48), 53-71.</>,
+  <>Fromm, E. (2016). <em>El arte de amar</em>. Paidós.</>,
+  <>Hilario Silva, P., & Ortiz Aguirre, E. (2023). Las situaciones de aprendizaje en el área de Lengua Castellana y Literatura. <em>Supervisión 21: Revista de educación e inspección</em>, (68).</>,
+  <>Isola Rajagopalan (2019). Concept of Teaching. <em>Shanlax International Journal of Education</em>, 7(2), 5-8.</>,
+  <>Machorro Cabello, M. Á., & Valdez Fuentes, V. (2017). Orientaciones para el trabajo en el aula. <em>Boletín Científico de la Escuela Preparatoria No. 4</em>, 4(8).</>,
+  <>Ortiz Aguirre, E. (2023). Aproximación crítica a las competencias clave y las competencias específicas de la LOMLOE. <em>Supervisión 21: Revista de educación e inspección</em>, (67).</>,
+  <>Tardif, J. (2008). Desarrollo de un programa por competencias: De la intención a su implementación. <em>Profesorado. Revista de currículum y formación del profesorado</em>, 12(3).</>,
 ]
 
 export default function ConceptMapPage() {
@@ -450,11 +450,11 @@ export default function ConceptMapPage() {
             </div>
             <div className="flex items-center mb-2">
               <div className="w-5 h-5 bg-white rounded border border-black mr-3"></div>
-              <span>Conceptos Principales</span>
+              <span>Elementos de la tríada</span>
             </div>
             <div className="flex items-center">
               <div className="w-5 h-5 bg-black rounded border border-black mr-3"></div>
-              <span>Conceptos Secundarios</span>
+              <span>Componentes</span>
             </div>
           </div>
         </div>
@@ -475,7 +475,7 @@ export default function ConceptMapPage() {
       {/* Footer Section */}
       <footer className="w-full max-w-7xl mt-16 pt-8 border-t border-gray-300 dark:border-gray-700">
         <p className="text-center text-gray-600 dark:text-gray-400 text-sm">
-          Realizado por Alejandro Corral Ríos, Cira Carmen Feo Merino, Claudia Gallarreta Peña y Rocío Ruiz Carrera
+          Realizado por Alejandro Corral Ríos, Cira Carmen Feo Merino, Claudia Gallarreta Peña y Rocío Ruiz Carrera.
         </p>
       </footer>
     </div>
