@@ -1,30 +1,37 @@
-# React code review
+# 🗺️ Mapa Conceptual: Educación, Enseñanza y Aprendizaje en la Era de las Competencias
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Este repositorio contiene un mapa conceptual creado para un trabajo realizado para la **Universidad Internacional de Valencia (VIU)**.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/acrs-projects-f7a3c417/v0-react-code-review)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/J7A9tmy15pk)
+---
 
-## Overview
+### 🤔 ¿De qué va todo esto?
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+En un mundo donde la **LOMLOE** y el **enfoque por competencias** están cambiando las reglas del juego en las aulas, ya no podemos pensar en estos tres conceptos como islas separadas. Son un equipo cuyos miembros deben trabajar juntos.
 
-## Deployment
+Nuestro mapa intenta responder a preguntas como:
+- ¿Siguen significando lo mismo que hace 20 años?
+- ¿Cómo se conectan entre sí en la práctica?
+- ¿Qué conclusiones podemos extraer de este análisis diacrónico?
 
-Your project is live at:
+### ✨ ¿Qué encontrarás aquí?
 
-**[https://vercel.com/acrs-projects-f7a3c417/v0-react-code-review](https://vercel.com/acrs-projects-f7a3c417/v0-react-code-review)**
+Un mapa diseñado para ser:
+- **Visualmente claro:** Usamos colores y formas para que no te pierdas en un mar de flechas y texto.
+- **Conceptual:** Conecta ideas de autores clave como Tardif, Díaz Barriga y Ortiz Aguirre.
+- **Relevante:** Todo está enfocado en el paradigma competencial actual.
 
-## Build your app
+---
 
-Continue building your app on:
+### 🚀 Nuestra Visión en una Frase
 
-**[https://v0.dev/chat/projects/J7A9tmy15pk](https://v0.dev/chat/projects/J7A9tmy15pk)**
+> La **Educación** es el horizonte, el **Aprendizaje** es el viaje y la **Enseñanza** es el motor que nos impulsa a crear ciudadanos críticos y autónomos.
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 👨‍💻 Creado por
+
+- acr.
+
+Esperamos que te sea útil, ya sea para estudiar, para inspirarte o simplemente por curiosidad. Si tienes alguna sugerencia o encuentras una errata, ¡no dudes en abrir un *issue*!
+
+¡Feliz aprendizaje! 🚀
